@@ -1,5 +1,5 @@
 {
-  "name": "timedlog",
+  "name": "@parkaroundthecorner/timedlog",
   "description": "Writes timed messages in the console or in a file",
   "version": "1.0.0",
   "author": "Julien Quinet <contact@parkaroundthecorner.com> (https://parkaroundthecorner.com)",
