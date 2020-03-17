@@ -1,7 +1,7 @@
 {
   "name": "@parkaroundthecorner/timedlog",
   "description": "Writes timed messages in the console or in a file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Julien Quinet <contact@parkaroundthecorner.com> (https://parkaroundthecorner.com)",
   "main": "index.js",
   "license": "MIT",
@@ -21,14 +21,11 @@
   },
   "homepage": "https://github.com/ParkAroundTheCorner/TimedLog",
   "scripts": {
-    "lint": "eslint index.js log test",
     "test": "node ./test/helloConsole.js",
     "logfile": "node ./test/logFile.js"
   },
   "dependencies": {},
-  "devDependencies": {
-    "eslint": "^6.6.0"
-  },
+  "devDependencies": {},
   "files": [
     "LICENSE",
     "README.md",
